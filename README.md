@@ -1,2 +1,2 @@
-# kyle-villegas-web
+# Web
 Personal website.
